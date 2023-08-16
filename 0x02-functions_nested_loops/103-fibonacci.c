@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	int c;
+	float total_s;
 	unsigned long f1 = 0, f2 = 1, s;
 
 	while (1)
