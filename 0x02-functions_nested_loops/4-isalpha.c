@@ -1,4 +1,4 @@
-#include "maun.h"
+#include "main.h"
 
 /**
  * _isalpha - check lowercase and uppercase
@@ -12,7 +12,7 @@ int _isalpha(int c)
 {
 	if (c >= 97 && c <= 122)
 		return (1);
-	if (C >= 65 && 7 C <= 90)
+	if (c >= 65 && 7 c <= 90)
 		return (1);
 	return (0);
 }
