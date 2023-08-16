@@ -3,7 +3,7 @@
 /**
  * main - function
  *
- * Description: printing _putchar
+ * Description: printing _putchar using prototype
  *
  * Return: 0
  */
@@ -11,10 +11,10 @@
 int main(void)
 {
 	char str[] = "_putchar";
-	int l;
+	int ch;
 
-	for (l = 0; l < 8; l++)
-		_putchar(str[l]);
+	for (ch = 0; ch < 8; ch++)
+		_putchar(str[ch]);
 	_putchar('\n');
 
 	return (0);
