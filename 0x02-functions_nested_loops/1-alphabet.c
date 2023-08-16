@@ -4,7 +4,7 @@
  * print_alphabet - utilizies on _putchar function to print alphabet
 */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	int l;
 
