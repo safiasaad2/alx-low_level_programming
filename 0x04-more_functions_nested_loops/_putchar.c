@@ -7,6 +7,7 @@
  *
  * Return: 1 if yes and -1 if no
 */
+
 int _putchar(char c)
 {
 	return (write(1, &c, 1));
