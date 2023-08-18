@@ -19,7 +19,7 @@ int main(void)
 		else if (n % 3 == 0 && n % 5 == 0)
 			printf("FizzBuzz");
 		else
-			printf("%d", num);
+			printf("%d", n);
 		if (n != 100)
 			printf(" ");
 		else
