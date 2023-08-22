@@ -5,6 +5,8 @@
  *
  * @dest: input
  * @src: input
+ * Description: printing pointer
+ * Return: the pointer
  */
 
 char *_strcpy(char *dest, char *src)
