@@ -4,6 +4,10 @@
  * _atoi - function
  *
  * @s: input
+ *
+ * Description: function
+ *
+ * Return: nothing
  */
 int _atoi(char *s)
 {
