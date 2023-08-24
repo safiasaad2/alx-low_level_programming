@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * *_strncat - function
+ * *_strcat - function
  *
  * @dest: input
  * @src: input
  *
  * Return: the pointer
  */
-char *_strncat(char *dest, char *src)
+char *_strcat(char *dest, char *src
 {
 	int s, s1;
 
